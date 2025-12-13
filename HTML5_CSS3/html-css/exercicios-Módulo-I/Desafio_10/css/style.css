@@ -82,6 +82,12 @@ main > section > article > p {
     color: #1a5c38;
     text-decoration: none;
 }
+.destaque2 {
+    font-weight: 900;
+    color: #8ceeb6;;
+    text-decoration: no
+}
+
 main > section > article > p a {
     background-color: #8ceeb6;
     text-decoration: none;
